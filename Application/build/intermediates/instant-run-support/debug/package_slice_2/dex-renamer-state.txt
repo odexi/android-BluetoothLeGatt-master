@@ -1,0 +1,4 @@
+#Thu Aug 31 12:00:35 EEST 2017
+base.0=D\:\\Koulu\\Mobile Solutions\\BluetoothLeGatt\\android-BluetoothLeGatt-master\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_2
+renamed.0=classes.dex
+file.0=D\:\\Koulu\\Mobile Solutions\\BluetoothLeGatt\\android-BluetoothLeGatt-master\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_2\\classes.dex

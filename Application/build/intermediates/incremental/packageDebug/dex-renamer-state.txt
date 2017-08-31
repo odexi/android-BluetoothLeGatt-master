@@ -1,0 +1,7 @@
+#Thu Aug 31 12:19:33 EEST 2017
+base.0=D\:\\Koulu\\Mobile Solutions\\BluetoothLeGatt\\android-BluetoothLeGatt-master\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b72e3787a2bffa21e673e212dda5b9047806aedb
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\Koulu\\Mobile Solutions\\BluetoothLeGatt\\android-BluetoothLeGatt-master\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_0dd6df5e8d95e9aca754546c04c101316628a338\\classes.dex
+base.1=D\:\\Koulu\\Mobile Solutions\\BluetoothLeGatt\\android-BluetoothLeGatt-master\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_0dd6df5e8d95e9aca754546c04c101316628a338
+file.0=D\:\\Koulu\\Mobile Solutions\\BluetoothLeGatt\\android-BluetoothLeGatt-master\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b72e3787a2bffa21e673e212dda5b9047806aedb\\classes.dex
